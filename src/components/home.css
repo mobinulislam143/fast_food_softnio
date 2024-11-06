@@ -1,0 +1,17 @@
+.herosec{
+    background: url('https://res.cloudinary.com/dmpsrcunj/image/upload/v1730708562/softnio/Rectangle_4_1_ru9bsp.png'), linear-gradient(130deg, #BD1F17, #A51D13 ,#8E1B0F);
+    /* overflow-x: hidden; */
+}
+.abouts{
+    overflow-x: hidden;
+}
+.bookTable{
+    background: url('https://res.cloudinary.com/dmpsrcunj/image/upload/v1730709148/softnio/diece_egp8ua.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{ 
+    max-width: 1000px;
+    margin: auto;
+}
