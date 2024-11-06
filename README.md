@@ -55,7 +55,7 @@ Start the application:
 
     npm start
 
-The application should now be running on http://localhost:3000.
+The application should now be running on (https://fast-food-flame.vercel.app/)
 Usage
 
     Browse Menu: View all menu items on the homepage. Click on an item to see more details.
