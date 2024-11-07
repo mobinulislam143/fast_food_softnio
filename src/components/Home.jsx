@@ -5,7 +5,7 @@ import About from "./About";
 import FoodSlider from "./FoodSlider";
 import BookingTable from "./BookingTable";
 import Testimonial from "./Testomonial";
-// import Footer from "./Footer";
+import Footer from './Footer'
 import './home.css';
 
 const Home = () => {
@@ -45,7 +45,11 @@ const Home = () => {
           <Testimonial />
         </div>
       </div>
-      {/* <Footer />  */}
+      <div className="footer">
+          <div className="container mx-auto lg:px-0 px-[30px]">
+            <Footer />
+          </div>
+        </div> 
     </div>
   );
 };

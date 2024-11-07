@@ -17,7 +17,8 @@ export default {
         bebas: ['Bebas Neue'],
         roboto: ['Roboto', 'sans-serif'],
         poppins: ['Poppins', 'sans-serif'], 
-        inter: ['Inter', 'sans-serif']
+        inter: ['Inter', 'sans-serif'],
+        montserrant: ['Montserrant', 'sans-serif']
       },
     },
   },
